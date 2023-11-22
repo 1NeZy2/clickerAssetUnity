@@ -1,0 +1,15 @@
+{
+    "idSave": 3351,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "money": 30.0,
+    "dmg": 1.0,
+    "isBonusActive": 0,
+    "passiveDmg": 1.0,
+    "passiveCooldown": 5.0,
+    "objectIndex": 0,
+    "curBackgroundIndex": 0,
+    "isGameWasCompleted": false,
+    "adWatchEndBonus": 0
+}
